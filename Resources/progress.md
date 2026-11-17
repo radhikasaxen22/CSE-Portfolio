@@ -2,4 +2,4 @@
 
 | Date | Topic | Status |
 |------|-------|--------|
-| 2026-11-16 | Daily Practice | ✅ |
+| 2026-11-17 | Daily Practice | ✅ |
